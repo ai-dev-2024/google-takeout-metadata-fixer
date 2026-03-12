@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+
+# Progress/state files
+fix_metadata_progress.json
+processing_progress.json
+fix_metadata_log.txt
+fix_metadata_log_rerun.txt
+fix_zip3_log.txt
+phone_sizes.txt
+
+# Secrets and tokens
+client_secret.json
+token.json
+
+# Output
+Output/
+Download/
+photos/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temp files
+*.tmp
+*.args
+_temp_*
+temp_zip/
+tail_zip3.bin*

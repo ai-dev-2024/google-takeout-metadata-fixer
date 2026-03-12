@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title>Google Takeout Metadata Fixer</title>
+  <desc>Camera aperture style logo with metadata spark and repair badge.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#facc15"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="url(#bg)"/>
+  <circle cx="128" cy="128" r="76" fill="none" stroke="#e2e8f0" stroke-width="14"/>
+  <path d="M128 52 155 96 128 110 101 96Z" fill="#ef4444"/>
+  <path d="M204 128 160 155 146 128 160 101Z" fill="#f97316"/>
+  <path d="M128 204 101 160 128 146 155 160Z" fill="#22c55e"/>
+  <path d="M52 128 96 101 110 128 96 155Z" fill="#38bdf8"/>
+  <circle cx="128" cy="128" r="28" fill="#f8fafc"/>
+  <path d="M172 58h14v18h18v14h-18v18h-14V90h-18V76h18Z" fill="url(#accent)"/>
+  <path d="m78 182 18 18 44-44-18-18Z" fill="#f8fafc" opacity="0.95"/>
+  <path d="m145 151 14-14 19 19-14 14Z" fill="#facc15"/>
+</svg>
