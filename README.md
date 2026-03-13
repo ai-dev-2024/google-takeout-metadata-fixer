@@ -4,6 +4,8 @@
 
 # Google Takeout Metadata Fixer
 
+[![ZAI Community](https://img.shields.io/badge/Part%20of-ZAI%20Start--up%20Community-8b5cf6?style=for-the-badge)](https://startup.z.ai/)
+
 Robust Google Takeout metadata fixer and Google Photos Takeout metadata fixer for restoring EXIF dates, GPS, descriptions, people tags, and video timestamps from Google Takeout JSON sidecars.
 
 This project is built for one job: take messy Google Photos / Google Takeout exports and turn them back into a clean, portable media library with correct metadata embedded into the actual files.
